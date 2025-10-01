@@ -26,8 +26,16 @@ Through segmentation, we aim to:
 ---
 
 ## 📂 Dataset
-The dataset is sourced from the UCI Machine Learning Repository and contains:
-- Transactional records (Invoice No, Stock Code, Quantity, Invoice Date, Unit Price, Customer ID, Country).
+The dataset contains transactional data from an online retail store, including:
+
+1. Invoice No. – Unique identifier for each transaction
+2. Stock Code – Product code
+3. Description – Product description
+4. Quantity – Number of items purchased
+5. Invoice Date – Date of purchase
+6. Unit Price – Price per item
+7. Customer ID – Unique identifier for customers
+8. Country – Customer location
 - Period: **Dec 2010 – Dec 2011**.
 
 ---
