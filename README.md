@@ -61,6 +61,14 @@ The dataset contains transactional data from an online retail store, including:
 
 ---
 
+## 📸 Demo / Screenshot
+
+Below is a screenshot of the RFM Customer Segmentation UI:
+
+![App Preview](image.png)
+
+---
+
 ## ✅ Conclusion
 This project successfully demonstrates how **unsupervised learning** can reveal hidden patterns in customer behavior.  
 Using **RFM Analysis** combined with clustering algorithms, we identified **two distinct customer groups**:
